@@ -9,7 +9,7 @@ import * as bootstrap from 'bootstrap'
 import particles from 'particles.js'
 import './js/particles.js'
 
-adaugam in index.js 
+//adaugam in index.js 
 
 // Import https://github.com/mattboldt/typed.js/
 // import Typed from 'typed.js';
@@ -17,4 +17,5 @@ adaugam in index.js
 
  import './js/main.js'
  import './js/skill.js'
+ import "./js/githubapi.js";
 
